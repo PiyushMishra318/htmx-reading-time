@@ -1,7 +1,5 @@
 # htmx-reading-time
 
-> Package name: `htmx-reading-time` (repo: `realtime-text-readtime`)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen?logo=node.js&logoColor=white)](package.json)
 
@@ -12,8 +10,8 @@ Type in the textarea and the estimated read time updates on each keystroke — n
 ## Run locally
 
 ```bash
-git clone git@github.com:PiyushMishra318/realtime-text-readtime.git
-cd realtime-text-readtime
+git clone git@github.com:PiyushMishra318/htmx-reading-time.git
+cd htmx-reading-time
 npm install
 npm start
 ```
@@ -22,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Demo
 
-- **Live:** https://realtime-text-readtime.vercel.app
+- **Live:** https://htmx-reading-time.vercel.app
 - Paste or type text → reading-time estimate updates live (HTMX, 250ms debounce)
 
 ## Deploy (Vercel)
