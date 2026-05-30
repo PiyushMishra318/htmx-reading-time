@@ -20,6 +20,11 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Demo
+
+- **Live:** https://realtime-text-readtime.vercel.app
+- Paste or type text → reading-time estimate updates live (HTMX, 250ms debounce)
+
 ## Deploy (Vercel)
 
 ```bash
