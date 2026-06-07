@@ -1,3 +1,8 @@
+# Author's Note (NOT AI GENERATED)
+
+> I built this on a whim one day. Don't really remember for what purpose I was working with some WYSIWYG Editors and I was curious how hard would it be to build a Read time plugin I think.
+> Anyway I upgraded the tech stack a bit recently using AI (wanted to see htmx in action). Archiving this.
+
 # htmx-reading-time
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
